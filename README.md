@@ -14,4 +14,5 @@ A very fast credit rating good/bad classification project mainly for practice fo
 
 ### Tools
 Load data to S3 bucket or as a BigQuery Table. Then pull them for analysis as a df to the develpoment enviroments: 
-SageMaker for S3 in a new Domain as a ML workflow and VertexAI for BigQuery as a new instance python notebook.
+- SageMaker for S3 in a new Domain as a ML workflow 
+- VertexAI for BigQuery as a new instance python notebook

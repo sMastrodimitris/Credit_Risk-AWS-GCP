@@ -13,4 +13,4 @@ A very fast credit rating good/bad classification project mainly for practice fo
 ##### XGBoost: A less easily explainable model but with satisfactory results.
 
 ### Tools
-Load data to S3 bucket or as a BigQuery Table. ------Load----> The two different AI development platforms (SageMaker in a new Domain as a ML workflow, VertexAI as a new instance python notebook)
+Load data to S3 bucket or as a BigQuery Table. The pull to the develpoment enviroments SageMaker for S3 in a new Domain as a ML workflow and VertexAI for BigQuery as a new instance python notebook.

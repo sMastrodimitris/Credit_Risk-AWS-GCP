@@ -4,3 +4,13 @@ A very fast credit rating good/bad classification project mainly for practice fo
 <p align="center">
   <img src="img/5.png" width="2000"/>
 </p>
+
+
+### Chapters
+##### Data exploration: Data cleaning (already clean), analyse relationships, choose predictive variables for the ML models. 
+##### Logistic Regression: The simplest possible solution with mediocre results.
+##### Random Forest: A more sophisticated solution but with disapointing results.
+##### XGBoost: A less easily explainable model but with satisfactory results.
+
+### Tools
+Load data to S3 bucket or as a BigQuery Table. ------Load----> The two different AI development platforms (SageMaker in a new Domain as a ML workflow, VertexAI as a new instance python notebook)
